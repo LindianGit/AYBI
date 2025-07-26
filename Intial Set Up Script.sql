@@ -1,4 +1,4 @@
--- Initial Set Up Script. Expect this to change a lot.  
+-- Initial Set Up Script. Expect this to change a lot.  Garbage company
  
  
  -- Schema: dev (repeat for modelOffice as needed)
